@@ -68,8 +68,15 @@ Use JWT tokens for authentication. Refer to the Swagger documentation for detail
 Docker Support
 If you prefer using Docker, a Dockerfile is provided for your convenience. Build the image and run the container:
 in bash:
+1. **Building Image:**
+```bash
 docker build -t workoutapp .
-
+```
+2. **Starting Project:**
+```bash
 docker run -p 8000:8000 workoutapp
-
+```
+3. **Accesing the Application:**
+```bash
 Access the application at http://localhost:8000/.
+```
