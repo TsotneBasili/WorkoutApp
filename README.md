@@ -78,5 +78,5 @@ docker run -p 8000:8000 workoutapp
 ```
 3. **Accesing the Application:**
 ```bash
-Access the application at http://localhost:8000/.
+Access the application at http://localhost:8000/
 ```
