@@ -42,6 +42,28 @@ Main settings and URLs.
 Access the APIs with JWT authentication:
 Use JWT tokens for authentication. Refer to the Swagger documentation for details on obtaining and using JWT tokens.
 
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/TsotneBasili/WorkoutApp.git
+    ```
+
+2. **Navigate to the project directory:**
+    ```bash
+    cd WorkoutApp
+    ```
+
+4. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+5. **Run migrations:**
+    ```bash
+    python manage.py migrate
+    ```
+6. **Start the development server:**
+    ```bash
+    python manage.py runserver
+    ```
 
 Docker Support
 If you prefer using Docker, a Dockerfile is provided for your convenience. Build the image and run the container:
