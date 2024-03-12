@@ -47,5 +47,7 @@ Docker Support
 If you prefer using Docker, a Dockerfile is provided for your convenience. Build the image and run the container:
 in bash:
 docker build -t workoutapp .
+
 docker run -p 8000:8000 workoutapp
+
 Access the application at http://localhost:8000/.
