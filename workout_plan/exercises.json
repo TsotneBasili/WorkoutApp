@@ -1,0 +1,203 @@
+[
+  {
+    "model": "workoutapp.exercise",
+    "pk": 1,
+    "fields": {
+      "name": "Push-Up",
+      "description": "A bodyweight exercise targeting the chest, shoulders, and triceps.",
+      "instructions": "1. Start in a plank position with your hands shoulder-width apart.\n2. Lower your body until your chest nearly touches the floor.\n3. Push back up to the starting position.",
+      "target_muscles": "Chest, Shoulders, Triceps"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 2,
+    "fields": {
+      "name": "Pull-Up",
+      "description": "An upper-body exercise targeting the back and biceps.",
+      "instructions": "1. Hang from a pull-up bar with your palms facing away.\n2. Pull your body up until your chin clears the bar.\n3. Lower your body back down to the starting position.",
+      "target_muscles": "Back, Biceps"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 3,
+    "fields": {
+      "name": "Squat",
+      "description": "A lower-body exercise targeting the quadriceps, hamstrings, and glutes.",
+      "instructions": "1. Stand with your feet shoulder-width apart.\n2. Lower your body by bending your knees and pushing your hips back.\n3. Return to the starting position by pushing through your heels.",
+      "target_muscles": "Quadriceps, Hamstrings, Glutes"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 4,
+    "fields": {
+      "name": "Deadlift",
+      "description": "A compound exercise targeting the back, hamstrings, and glutes.",
+      "instructions": "1. Stand with your feet hip-width apart, holding a barbell in front of you.\n2. Bend at your hips and knees, keeping your back straight.\n3. Lift the barbell by straightening your hips and knees.",
+      "target_muscles": "Back, Hamstrings, Glutes"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 5,
+    "fields": {
+      "name": "Bench Press",
+      "description": "An upper-body exercise targeting the chest, shoulders, and triceps.",
+      "instructions": "1. Lie on a flat bench with a barbell above your chest.\n2. Lower the barbell to your chest.\n3. Press the barbell back up to the starting position.",
+      "target_muscles": "Chest, Shoulders, Triceps"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 6,
+    "fields": {
+      "name": "Plank",
+      "description": "A core exercise targeting the abdominal muscles.",
+      "instructions": "1. Start in a forearm plank position with your body in a straight line.\n2. Hold the position, engaging your core muscles.",
+      "target_muscles": "Abdominals"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 7,
+    "fields": {
+      "name": "Lunges",
+      "description": "A lower-body exercise targeting the quadriceps, hamstrings, and glutes.",
+      "instructions": "1. Stand with your feet together.\n2. Step forward with one leg, lowering your body until both knees are bent at a 90-degree angle.\n3. Return to the starting position and repeat on the other leg.",
+      "target_muscles": "Quadriceps, Hamstrings, Glutes"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 8,
+    "fields": {
+      "name": "Bicep Curl",
+      "description": "An isolation exercise targeting the biceps.",
+      "instructions": "1. Stand with a dumbbell in each hand, arms fully extended.\n2. Curl the weights toward your shoulders.\n3. Lower the weights back to the starting position.",
+      "target_muscles": "Biceps"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 9,
+    "fields": {
+      "name": "Tricep Dip",
+      "description": "An upper-body exercise targeting the triceps.",
+      "instructions": "1. Sit on the edge of a bench with your hands next to your hips.\n2. Slide your hips off the bench and lower your body by bending your elbows.\n3. Push yourself back up to the starting position.",
+      "target_muscles": "Triceps"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 10,
+    "fields": {
+      "name": "Leg Press",
+      "description": "A lower-body exercise targeting the quadriceps, hamstrings, and glutes.",
+      "instructions": "1. Sit on a leg press machine with your back against the pad.\n2. Press the platform away by extending your hips and knees.\n3. Return to the starting position by bending your knees.",
+      "target_muscles": "Quadriceps, Hamstrings, Glutes"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 11,
+    "fields": {
+      "name": "Lat Pulldown",
+      "description": "An upper-body exercise targeting the back and biceps.",
+      "instructions": "1. Sit at a lat pulldown machine with your knees secured under the pads.\n2. Grab the bar with a wide grip and pull it down to your chest.\n3. Slowly return the bar to the starting position.",
+      "target_muscles": "Back, Biceps"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 12,
+    "fields": {
+      "name": "Russian Twist",
+      "description": "A core exercise targeting the obliques.",
+      "instructions": "1. Sit on the floor with your knees bent and feet flat.\n2. Lean back slightly and twist your torso to one side.\n3. Return to the center and twist to the other side.",
+      "target_muscles": "Obliques"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 13,
+    "fields": {
+      "name": "Calf Raise",
+      "description": "A lower-body exercise targeting the calves.",
+      "instructions": "1. Stand on a raised surface with the balls of your feet on the edge.\n2. Lift your heels by contracting your calf muscles.\n3. Lower your heels back down.",
+      "target_muscles": "Calves"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 14,
+    "fields": {
+      "name": "Box Jump",
+      "description": "A plyometric exercise targeting the legs and cardiovascular system.",
+      "instructions": "1. Stand in front of a sturdy box or platform.\n2. Jump onto the box, landing with both feet on top.\n3. Step back down and repeat.",
+      "target_muscles": "Legs"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 15,
+    "fields": {
+      "name": "Hanging Leg Raise",
+      "description": "A core exercise targeting the lower abdominal muscles.",
+      "instructions": "1. Hang from a pull-up bar with your arms fully extended.\n2. Lift your legs until they are parallel to the ground.\n3. Lower your legs back down.",
+      "target_muscles": "Lower Abdominals"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 16,
+    "fields": {
+      "name": "Hammer Curl",
+      "description": "An isolation exercise targeting the brachialis and brachioradialis.",
+      "instructions": "1. Stand with a dumbbell in each hand, palms facing your torso.\n2. Curl the weights toward your shoulders with a neutral grip.\n3. Lower the weights back to the starting position.",
+      "target_muscles": "Brachialis, Brachioradialis"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 17,
+    "fields": {
+      "name": "Side Plank",
+      "description": "A core exercise targeting the obliques and stabilizing muscles.",
+      "instructions": "1. Start in a plank position on your side, supporting your body on one forearm.\n2. Lift your hips to create a straight line from head to heels.\n3. Hold the position, engaging your obliques.",
+      "target_muscles": "Obliques"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 18,
+    "fields": {
+      "name": "Seated Shoulder Press",
+      "description": "An upper-body exercise targeting the shoulders.",
+      "instructions": "1. Sit on a bench with a dumbbell in each hand at shoulder height.\n2. Press the dumbbells overhead, extending your arms.\n3. Lower the dumbbells back to shoulder height.",
+      "target_muscles": "Shoulders"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 19,
+    "fields": {
+      "name": "Mountain Climbers",
+      "description": "A cardio and core exercise targeting the abdominals and hip flexors.",
+      "instructions": "1. Start in a plank position.\n2. Bring one knee toward your chest, then switch legs quickly.\n3. Continue alternating legs in a running motion.",
+      "target_muscles": "Abdominals, Hip Flexors"
+    }
+  },
+  {
+    "model": "workoutapp.exercise",
+    "pk": 20,
+    "fields": {
+      "name": "Tricep Kickback",
+      "description": "An isolation exercise targeting the triceps.",
+      "instructions": "1. Bend over at the hips with a dumbbell in each hand.\n2. Extend your arms straight back, keeping your upper arms parallel to the ground.\n3. Return to the starting position.",
+      "target_muscles": "Triceps"
+    }
+  }
+]
+
